@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Ashton 👋</h1>
-<h3 align="center">A Front-End Developer from the earth</h3>
-<img alt="icon" align="left" width="100%" src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,jquery,vue,php,mysql,python,git,ai,ps,xd"/>
+<h3 align="center">A Front-End Developer from the Earth🌏</h3>
+<img alt="icon" align="center" width="100%" src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,jquery,vue,php,mysql,python,git,ai,ps,xd"/>
 &nbsp;
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AshtonLiou&show_icons=true"/>
-&nbsp;
-<img alt="top langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonLiou&layout=donut"/>
-&nbsp;&nbsp;
-<img alt="top langs" align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshtonLiou"/>
+<img alt="top langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonLiou&layout=donut"/>
+<img alt="my stats" align="center" src="https://github-readme-stats.vercel.app/api?username=AshtonLiou&show_icons=true"/>
+<img alt="top langs" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshtonLiou"/>
